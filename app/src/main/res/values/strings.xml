@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="log_in">Log in</string>
+    <string name="email">Email</string>
+    <string name="input_email">input email...</string>
+    <string name="password">Password</string>
+    <string name="input_password">input password...</string>
+    <string name="don_t_have_a_account_sign_up">Don\'t have a account? Sign up?</string>
+    <string name="or_login_with">or login with</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="your_web_client_id">972718431190-15foji6hc9glfum3s19gcfbrs49fcpmu.apps.googleusercontent.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="facebook_app_id">1013448166589222</string>
+    <string name="fb_login_protocol_scheme">fb1013448166589222</string>
+    <string name="facebook_client_token">df84c3b20a7126c151e7c6ac85911b15</string>
+
+    <string name="home">Trang chủ</string>
+    <string name="the_thao">Thể thao</string>
+    <string name="suc_khoe">Sức khỏe</string>
+    <string name="khoa_hoc">Khoa học</string>
+    <string name="giao_duc">Giáo dục</string>
+    <string name="du_lich">Du lịch</string>
+    <string name="bds">Bất động sản</string>
+
+    <string name="nav_open">Open navigation drawer</string>
+    <string name="nav_close">Close navigation drawer</string>
+
+</resources>

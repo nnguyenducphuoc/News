@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="#18B4C8"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:padding="15dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_marginLeft="10dp"
+            android:id="@+id/imgNew"
+            android:src="@drawable/dan_tri"
+            android:layout_width="100dp"
+            android:layout_height="100dp">
+
+        </ImageView>
+
+        <TextView
+            android:layout_marginLeft="10dp"
+            android:id="@+id/txtNew"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="start"
+            android:textColor="#001BA1"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:text="Báo dân trí"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+        </TextView>
+
+    </LinearLayout>
+
+
+</RelativeLayout>

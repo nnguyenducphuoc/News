@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_home"
+            android:title="@string/home"></item>
+        <item android:id="@+id/nav_the_thao"
+            android:title="@string/the_thao"></item>
+        <item android:id="@+id/nav_suc_khoe"
+            android:title="@string/suc_khoe"></item>
+        <item android:id="@+id/nav_khoa_hoc"
+            android:title="@string/khoa_hoc"></item>
+        <item android:id="@+id/nav_giao_duc"
+            android:title="@string/giao_duc"></item>
+        <item android:id="@+id/nav_du_lich"
+            android:title="@string/du_lich"></item>
+        <item android:id="@+id/nav_bds"
+            android:title="@string/bds"></item>
+
+    </group>
+</menu>

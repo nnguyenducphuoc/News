@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "972718431190",
+    "project_id": "news-375a4",
+    "storage_bucket": "news-375a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972718431190:android:f385b31fcc52bc0370a277",
+        "android_client_info": {
+          "package_name": "com.phuoc.news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972718431190-ekths86t60cpbtg23mbb7ok5spaiurlf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.phuoc.news",
+            "certificate_hash": "693ed750e976bcebdc3aa3497f0a51f0cb95b3bf"
+          }
+        },
+        {
+          "client_id": "972718431190-15foji6hc9glfum3s19gcfbrs49fcpmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJdAV3Y413srPZqL8J0rpPWxXiH3zmpK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972718431190-15foji6hc9glfum3s19gcfbrs49fcpmu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
